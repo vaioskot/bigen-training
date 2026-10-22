@@ -11,6 +11,6 @@
 - [x] 5. Pull
 - [x] 6. Merge conflicts
 - [x] 7. Pull requests και fork
-- [ ] 8. Issues
-- [ ] 9. Tags και εκδόσεις
+- [x] 8. Issues
+- [x] 9. Tags και εκδόσεις
 - [ ] 10. README, license, citation
