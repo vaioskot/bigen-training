@@ -18,4 +18,4 @@ branches, pull requests, .gitignore, releases και citation.
 - [x] 7. Pull requests και fork
 - [x] 8. Issues
 - [x] 9. Tags και εκδόσεις
-- [ ] 10. README, license, citation
+- [x] 10. README, license, citation
