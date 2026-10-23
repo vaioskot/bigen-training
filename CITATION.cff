@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Αν χρησιμοποιήσεις αυτό το υλικό, παρακαλώ κάνε cite ως εξής."
+title: "bigen-training: Υλικό εκπαίδευσης Git/GitHub για βιοπληροφορική"
+authors:
+  - family-names: "Kotoulas"
+    given-names: "Vaios"
+version: 0.1.0
+date-released: 2026-10-22
+license: MIT
+repository-code: "https://github.com/vaioskot/bigen-training"
