@@ -1,3 +1,8 @@
+Υλικό εκπαίδευσης για Git και GitHub, από την πρακτική μου στο εργαστήριο BiGen.
+Καλύπτει τα βασικά που χρειάζεται κάποιος για να δουλέψει σε project βιοπληροφορικής:
+branches, pull requests, .gitignore, releases και citation.
+
+Κάθε ενότητα βασίζεται στο Software Carpentry "Version Control with Git".
 # bigen-training
 Υλικό εκπαίδευσης από την πρακτική μου στο BiGen
 αλλαγη απο το github
